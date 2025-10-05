@@ -122,3 +122,26 @@ Sample Input :
 3 4 
 Sample Output: 
 ['0', '1', '2', '3', '4'] 
+
+Sample Input:
+
+5 6
+0 1
+0 2
+1 2
+1 3
+2 4
+3 4
+
+
+Sample Output:
+
+['0', '1', '2', '3', '4']
+
+RESULT
+
+The program for Breadth First Search (BFS) Traversal of a Graph was successfully executed using Python 3.
+The BFS traversal for the given sample input graph is:
+
+['0', '1', '2', '3', '4']
+Thus the  given program for breadth first search (BFS) of a graph is verified.
